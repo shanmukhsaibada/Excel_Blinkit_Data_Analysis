@@ -1,4 +1,3 @@
-# Excel_Blinkit_Data_Analysis
 # Blinkit Data Analytics Dashboard
 
 ## Company Overview
@@ -38,7 +37,7 @@ This project presents a **comprehensive Excel dashboard** for Blinkit, built on 
 ## Dashboard Preview
 Below is the final dashboard snapshot:  
 
-![Blinkit Dashboard](Blinkit_dashboard.jpg)
+![Blinkit Dashboard](blinkit.png)
 
 ---
 
