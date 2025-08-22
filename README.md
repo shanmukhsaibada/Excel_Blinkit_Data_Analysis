@@ -37,7 +37,7 @@ This project presents a **comprehensive Excel dashboard** for Blinkit, built on 
 ## Dashboard Preview
 Below is the final dashboard snapshot:  
 
-![Blinkit Dashboard](blinkit.png)
+![Blinkit Dashboard](blinkit.PNG)
 
 ---
 
