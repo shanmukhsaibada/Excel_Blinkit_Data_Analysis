@@ -46,7 +46,8 @@ Below is the final dashboard snapshot:
 - Top-performing categories: Groceries and essentials dominate the order mix.  
 - **Fulfillment performance: Over 90% orders delivered on time** with minimal delays.  
 - Revenue hotspots: Tier-1 cities contribute the largest share of total revenue.  
-- Customer segmentation: Adults aged 25–40 form the largest user group for quick-commerce orders.  
+- Customer segmentation: Adults aged 25–40 form the largest user group for quick-commerce orders.
+- Dynamic Dashboard: Dynamic dashboards with switching buttons, modern designs, and Slicers.  
 
 ---
 
